@@ -22,6 +22,7 @@ Dont worry, on this EFI you don't have to change it
 - Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz
 - RAM 8GB (2 CARD)
 - SSD 128GB
+- Intel HD Graphics 4000 
 
 
 ## More Download Link
